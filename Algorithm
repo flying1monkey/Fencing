@@ -1,0 +1,11 @@
+Query for yard perimeter
+Query for fencing type 
+	wood ($25) or chain link ($15)
+Query for number of gates 
+	at least one, no more than three ($150 each)
+Calculate total
+	fencing=perimeter*type
+	gate price is 150* number of gates
+	6% tax rate (0.06)-1.06 is tax rate plus cost
+	50 for building permit, which is not taxed
+	((perimeter*type)+(gates*150))*1.06)+50
